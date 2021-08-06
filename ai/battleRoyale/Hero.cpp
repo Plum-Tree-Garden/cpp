@@ -1,5 +1,5 @@
 // Plum Tree Garden
-// Hero.h
+// Hero.cpp
 
 
 #include <iostream>
