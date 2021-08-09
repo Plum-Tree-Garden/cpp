@@ -27,7 +27,7 @@ AI
 
 
 **inventoryManager** inventory manager that reads inventory data from 2 seperate documents while providing inventory information to user query. 
-- this not only reads data but ensures / tests each input displays the correct / intended value.
+
 
 **populationTally** : recieves the population and name of three seperate entities within a kingdom then tally's the population of the entire "kingdom"
 
@@ -38,4 +38,4 @@ AI
 **Page Loading Speed** : Page Loading Speed affect SEO Results. This program Calculates the time spent loading a page.
 
 
-**setFraction** : given paramaters set fraction values of numerator and denominator then creates a fraction from given values
+**setFraction** : given paramaters, set fraction values of numerator and denominator then creates a fraction from given values
