@@ -7,6 +7,7 @@ C++
 AI
 ---------
     **RockPapterScissors** : creates a simulation between 2 AI opponents in a game of Rock, Paper, Scissors and weighs the results.
+    
     **battleRoyal** : a simulation between different AI oppenents given different health, defences and attack
 
 
