@@ -10,7 +10,7 @@ RockPaperScissors
     creates a simulation between 2 AI opponents in a game of Rock, Paper, Scissors and weighs the results.
 
 BattleRoyale
-    
+----------
     a simulation between different AI oppenents given different health, defences and attack
 
 
